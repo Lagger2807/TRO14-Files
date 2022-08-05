@@ -1,0 +1,10 @@
+[
+  {
+    "Type": "ModPacks",
+    "Name": "Standard",
+  },
+  {
+    "Type": "VulkanFiles",
+    "Name": "d3d11.dll",
+  }
+]
