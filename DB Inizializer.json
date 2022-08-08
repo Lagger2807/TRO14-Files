@@ -43,24 +43,20 @@
     "Type": "AllocDLLs",
     "Name": "GJK_Ampersand_Edition_Tbbmalloc_v202150_AVX512.dll",
     "URL": "https://github.com/Lagger2807/TRO14-Files/raw/main/GJK_Ampersand_Edition_Tbbmalloc_v202150_AVX512.dll",
-    "Notes": "Notes Test",
   },
   {
     "Type": "AllocDLLs",
     "Name": "tbbmalloc_202150.dll",
     "URL": "https://github.com/Lagger2807/TRO14-Files/raw/main/tbbmalloc_202150.dll",
-    "Notes": "Notes Test",
   },
   {
     "Type": "AllocDLLs",
     "Name": "mimalloc_v203.dll",
     "URL": "https://github.com/Lagger2807/TRO14-Files/raw/main/mimalloc_v203.dll",
-    "Notes": "Notes Test",
   },
   {
     "Type": "AllocDLLs",
     "Name": "mimalloc_v203_LockPages.dll",
     "URL": "https://github.com/Lagger2807/TRO14-Files/raw/main/mimalloc_v203_LockPages.dll",
-    "Notes": "Notes Test",
   }
 ]
