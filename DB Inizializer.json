@@ -2,26 +2,31 @@
   {
     "Type": "ModPacks",
     "Name": "Demo",
+    "VURL": "https://github.com/Lagger2807/TRO14-Files/raw/main/Demo.json",
     "URL": "https://github.com/Lagger2807/TRO14-Files/raw/main/TROP%20Demo%20.html",
   },
   {
     "Type": "ModPacks",
     "Name": "Lite",
+    "VURL": "https://github.com/Lagger2807/TRO14-Files/raw/main/Lite.json",
     "URL": "https://github.com/Lagger2807/TRO14-Files/raw/main/TROP%20Lite.html",
   },
   {
     "Type": "ModPacks",
     "Name": "Standard",
+    "VURL": "https://github.com/Lagger2807/TRO14-Files/raw/main/Standard.json",
     "URL": "https://github.com/Lagger2807/TRO14-Files/raw/main/TROP%20Standard.html",
   },
   {
     "Type": "ModPacks",
     "Name": "OldTimes",
+    "VURL": "https://github.com/Lagger2807/TRO14-Files/raw/main/OldTimes.json",
     "URL": "https://github.com/Lagger2807/TRO14-Files/raw/main/TROP%20OldTimes.html",
   },
   {
     "Type": "ModPacks",
     "Name": "Future",
+    "VURL": "https://github.com/Lagger2807/TRO14-Files/raw/main/Future.json",
     "URL": "https://github.com/Lagger2807/TRO14-Files/raw/main/TROP%20Lite.html",
   },
   {
