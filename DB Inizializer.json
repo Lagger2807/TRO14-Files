@@ -1,11 +1,32 @@
 [
   {
     "Type": "ModPacks",
+    "Name": "Demo",
+    "URL": "https://github.com/Lagger2807/TRO14-Files/raw/main/TROP%20Demo%20.html",
+  },
+  {
+    "Type": "ModPacks",
+    "Name": "Lite",
+    "URL": "https://github.com/Lagger2807/TRO14-Files/raw/main/TROP%20Lite.html",
+  },
+  {
+    "Type": "ModPacks",
     "Name": "Standard",
     "URL": "https://github.com/Lagger2807/TRO14-Files/raw/main/TROP%20Standard.html",
   },
   {
-    "Type": "VulkanFiles",
-    "Name": "d3d11.dll",
-  }
+    "Type": "ModPacks",
+    "Name": "OldTimes",
+    "URL": "https://github.com/Lagger2807/TRO14-Files/raw/main/TROP%20OldTimes.html",
+  },
+  {
+    "Type": "ModPacks",
+    "Name": "Future",
+    "URL": "https://github.com/Lagger2807/TRO14-Files/raw/main/TROP%20Lite.html",
+  },
+  {
+    "Type": "",
+    "Name": "",
+    "URL": "",
+  },
 ]
