@@ -30,8 +30,13 @@
     "URL": "https://github.com/Lagger2807/TRO14-Files/raw/main/TROP%20Lite.html",
   },
   {
-    "Type": "",
-    "Name": "",
-    "URL": "",
+    "Type": "VulkanFiles",
+    "Name": "dxgi.dll",
+    "URL": "https://github.com/Lagger2807/TRO14-Files/raw/main/dxgi.dll",
+  },
+  {
+    "Type": "VulkanFiles",
+    "Name": "d3d11.dll",
+    "URL": "https://github.com/Lagger2807/TRO14-Files/raw/main/d3d11.dll",
   }
 ]
