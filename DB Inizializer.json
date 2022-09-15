@@ -58,5 +58,15 @@
     "Type": "AllocDLLs",
     "Name": "mimalloc_v203_LockPages.dll",
     "URL": "https://github.com/Lagger2807/TRO14-Files/raw/main/mimalloc_v203_LockPages.dll",
+  },
+  {
+    "Type": "Profiles",
+    "Name": "DefaultProfile.Arma3Profile",
+    "URL": "https://github.com/Lagger2807/TRO14-Files/raw/main/DefaultProfile.Arma3Profile",
+  },
+  {
+    "Type": "Profiles",
+    "Name": "DefaultProfile.vars.Arma3Profile",
+    "URL": "https://github.com/Lagger2807/TRO14-Files/raw/main/DefaultProfile.vars.Arma3Profile",
   }
 ]
