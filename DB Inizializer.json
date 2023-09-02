@@ -41,17 +41,17 @@
   },
   {
     "Type": "AllocDLLs",
-    "Name": "mimalloc",
+    "Name": "mimalloc.dll",
     "URL": "https://github.com/Lagger2807/TRO14-Files/raw/main/mimalloc.dll",
   },
   {
     "Type": "AllocDLLs",
-    "Name": "mimalloc_LockPages",
+    "Name": "mimalloc_LockPages.dll",
     "URL": "https://github.com/Lagger2807/TRO14-Files/raw/main/mimalloc_LockPages.dll",
   },
   {
     "Type": "AllocDLLs",
-    "Name": "mimalloc_NoCollect",
+    "Name": "mimalloc_NoCollect.dll",
     "URL": "https://github.com/Lagger2807/TRO14-Files/raw/main/mimalloc_NoCollect.dll",
   },
   {
